@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">What\'s the Weather</string>
+    <string name="enable_location_access">Enable Location Access</string>
+    <string name="to_provide_you_with_the_best_experience_we_need_access_to_your_location">To provide you with the best experience, we need access to your location.</string>
+    <string name="location_access_is_required_to">Location access is required to:</string>
+    <string name="enable_location_based_features_and_services">Enable location-based features and services</string>
+    <string name="provide_accurate_weather_and_local_information">Provide accurate weather and local information</string>
+    <string name="grant_location_access">Grant Location Access</string>
+    <string name="search">Search</string>
+    <string name="home_title">%1$s %2$s</string>
+    <string name="home_description">Feels like %1$s • %2$s</string>
+    <string name="weather_icon">Weather Icon</string>
+    <string name="f">°F</string>
+    <string name="c">°C</string>
+    <string name="search_city">Search City</string>
+    <string name="no_city_found">City not found. Please enter a valid city name.</string>
+    <string name="search_item_name">%1$s, %2$s</string>
+    <string name="add_to_favorite">Add To Favorites</string>
+    <string name="temperature">Temperature: %1$s</string>
+    <string name="feels_like">Feels like: %1$s</string>
+    <string name="humidity">Humidity: %1$s%%</string>
+    <string name="wind">Wind: %1$s</string>
+    <string name="sunrise">Sunrise: %1$s IST</string>
+    <string name="sunset">Sunset: %1$s IST</string>
+    <string name="remove_from_favourites">Remove from Favourites</string>
+    <string name="favourites">Favourites</string>
+    <string name="no_favourites">Looks like you haven\'t saved any favorites yet. Consider adding some to personalize your experience.</string>
+    <string name="settings">Settings</string>
+    <string name="units">Units : </string>
+    <string name="check_network">Check Network Status</string>
+    <string name="no_internet_connection">No Internet Connection</string>
+    <string name="you_have_lost_internet_connection">You have lost internet connection.</string>
+    <string name="map">Map</string>
+    <string name="something_went_wrong_pls_try_again">Something went wrong please try again.</string>
+    <string name="map_hint">Long press on the map to access the weather updates for that location.</string>
+    <string name="share_text">Hey there! I just looked up the weather in %1$s. Currently, it\'s %2$s, but it feels more like %3$s. The conditions are %4$s. \- Weather data provided by Kalim Dalwai\'s "What's the Weather" app.</string>
+
+    <!--    -->
+    <string name="google_api_key">AIzaSyBf9x8OQu5uscKk7QQC6cMxEG0K1rJxAVs</string>
+    <!--    -->
+</resources>
